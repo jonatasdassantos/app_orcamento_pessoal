@@ -1,12 +1,12 @@
 # 💰 App Orçamento Pessoal
 
-Aplicação web desenvolvida para praticar programação e criação de uma ferramenta de controle de orçamento pessoal.
-
-## 📌 Sobre o projeto
+Aplicação web desenvolvida para praticar conceitos de desenvolvimento front-end, lógica de programação e interação com o usuário.
 
 ## 🖥️ Preview
 
-![Preview do projeto]()
+![Preview do projeto](preview.png)
+
+## 📌 Sobre o projeto
 
 O projeto tem como objetivo permitir a organização de informações relacionadas ao orçamento pessoal através de uma aplicação web.
 
