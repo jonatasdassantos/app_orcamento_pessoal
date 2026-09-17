@@ -6,11 +6,11 @@ Aplicação web desenvolvida para praticar conceitos de desenvolvimento front-en
 
 ![Preview do projeto](preview.png)
 
-## 🎯 Principais funcionalidades
 
-* Cadastro de despesas
+## 🎯 Principais funcionalidades                                                                                                                                                                                              
+
+* Cadastro de Despesa
 * Classificação das despesas por categoria:
-
   * Alimentação
   * Educação
   * Lazer
