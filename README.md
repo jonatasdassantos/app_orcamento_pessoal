@@ -4,6 +4,10 @@ Aplicação web desenvolvida para praticar programação e criação de uma ferr
 
 ## 📌 Sobre o projeto
 
+## 🖥️ Preview
+
+![Preview do projeto]()
+
 O projeto tem como objetivo permitir a organização de informações relacionadas ao orçamento pessoal através de uma aplicação web.
 
 Foi desenvolvido como projeto prático para aplicar conhecimentos de HTML, CSS e JavaScript.
