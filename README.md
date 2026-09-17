@@ -6,6 +6,25 @@ Aplicação web desenvolvida para praticar conceitos de desenvolvimento front-en
 
 ![Preview do projeto](preview.png)
 
+## 🎯 Principais funcionalidades
+
+* Cadastro de despesas
+* Classificação das despesas por categoria:
+
+  * Alimentação
+  * Educação
+  * Lazer
+  * Saúde
+  * Transporte
+* Consulta das despesas cadastradas
+* Visualização de:
+
+  * Data
+  * Tipo
+  * Descrição
+  * Valor
+* Exclusão de despesas cadastradas
+
 ## 📌 Sobre o projeto
 
 O projeto tem como objetivo permitir a organização de informações relacionadas ao orçamento pessoal através de uma aplicação web.
